@@ -3,6 +3,7 @@
 I used the Jypter Notebook to conduct data analysis using machine learning algorithms.
 ### Files
 `2 ANUPoll2018Data_CSV_01428.csv`: Dataset of interest
+`COM8410_assignment3.ipynb`: Jupter Notebook that contains the analysis. Please note, you might need to download the file to review the content as the size is big and github might not be able to show on UI. 
 
 ### Requirements
 ```
