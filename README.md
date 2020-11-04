@@ -2,9 +2,9 @@
 # COMP8410 Assignment 3
 I used the Jypter Notebook to conduct data analysis using machine learning algorithms.
 ### Files
-`2 ANUPoll2018Data_CSV_01428.csv`: Dataset of interest
+1. `2 ANUPoll2018Data_CSV_01428.csv`: Dataset of interest
 <br>
-`COM8410_assignment3.ipynb`: Jupter Notebook that contains the analysis. Please note, you might need to download the file to review the content as the size is big and github might not be able to show on UI. 
+2. `COM8410_assignment3.ipynb`: Jupter Notebook that contains the analysis. Please note, you might need to download the file to review the content as the size is big and github might not be able to show on UI. 
 
 ### Requirements
 ```
@@ -39,3 +39,4 @@ I acknowledge that:
 1. [Sklearn library](https://scikit-learn.org/stable/modules/naive_bayes.html)
 2. [David Masse - Unsupervised Learning for Categorical Data](https://medium.com/@davidmasse8/unsupervised-learning-for-categorical-data-dd7e497033ae)
 3. [Bank Customer Clustering (K-Modes Clustering)](https://www.kaggle.com/ashydv/bank-customer-clustering-k-modes-clustering)
+4. [Avinash Navlani - Understanding Random Forests Classifiers in Python](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
