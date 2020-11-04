@@ -34,3 +34,8 @@ I acknowledge that:
 5. The Australian Data Archive and its host institution, The Australian National University, shall not be held liable for any breach of this undertaking. 
 
 6. The Australian Data Archive and its host institution, The Australian National University, shall not be held responsible for the accuracy and completeness of the material supplied.
+
+### Coding References:
+1. [Sklearn library](https://scikit-learn.org/stable/modules/naive_bayes.html)
+2. [David Masse - Unsupervised Learning for Categorical Data](https://medium.com/@davidmasse8/unsupervised-learning-for-categorical-data-dd7e497033ae)
+3. [Bank Customer Clustering (K-Modes Clustering](https://www.kaggle.com/ashydv/bank-customer-clustering-k-modes-clustering)
